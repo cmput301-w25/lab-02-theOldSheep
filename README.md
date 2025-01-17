@@ -3,12 +3,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mengyang Liu`
+- **CCID:** `mengyan4`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/5395114/add-onclick-listener-to-predefined-button
+https://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click
 
 ## Verbal Collaboration
 
